@@ -131,7 +131,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   Column(
                     children: [
                       Text(
-                        'Welcome Back',
+                        'Welcome to Bank AI',
                         style: TextStyle(
                           fontSize: 28,
                           fontWeight: FontWeight.w700,
